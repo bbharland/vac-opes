@@ -1,0 +1,771 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tarfi",
+				"tarfile"
+			],
+			[
+				"begin",
+				"\\begin\t\\begin{}…\\end{}"
+			],
+			[
+				"val",
+				"valid_inp"
+			],
+			[
+				"chan",
+				"figures/chandler.png"
+			],
+			[
+				"includ",
+				"\\includegraphics[options]{name}                   "
+			],
+			[
+				"num_st",
+				"num_steps"
+			],
+			[
+				"_w",
+				"_warr"
+			],
+			[
+				"_h",
+				"_harr"
+			],
+			[
+				"num",
+				"num_gaussians"
+			],
+			[
+				"mathb",
+				"\\mathbf{text}                                     "
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "calcs.py",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "data.py",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "dataset.py",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "force.py",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "opes.py",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "plots.py",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "util.py",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "vampnet.py",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				"PdfLaTeX"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pref",
+				"Preferences: Settings"
+			],
+			[
+				"sett",
+				"Preferences: Settings – Syntax Specific"
+			],
+			[
+				"setting",
+				"Preferences: Settings – Syntax Specific"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings"
+			],
+			[
+				"key ",
+				"Preferences: Key Bindings"
+			],
+			[
+				"preferen",
+				"Preferences: Settings"
+			],
+			[
+				"settings",
+				"Preferences: Settings"
+			],
+			[
+				"latex",
+				"LaTeXTools: Show toggles"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"view",
+				"View: Toggle Menu"
+			],
+			[
+				"snippet: begin",
+				"Snippet: \\begin{}…\\end{}"
+			],
+			[
+				"Packa",
+				"PackageDev: Edit Current Color Scheme"
+			],
+			[
+				"PackageDev: Edit",
+				"PackageDev: Edit Current Color Scheme"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"prefere",
+				"Preferences: Settings"
+			],
+			[
+				"reindent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"prefe",
+				"Preferences: Settings"
+			],
+			[
+				"p",
+				"Preferences: Settings"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"prefer",
+				"Preferences: Settings"
+			],
+			[
+				"PREF",
+				"Preferences: Settings"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/bharland/pande/work/vac-opes-original/src/calcs.py",
+		"/home/bharland/pande/work/vac-opes-original/src/data.py",
+		"/home/bharland/pande/work/vac-opes-original/src/dataset.py",
+		"/home/bharland/pande/work/vac-opes-original/src/force.py",
+		"/home/bharland/pande/work/vac-opes-original/src/opes.py",
+		"/home/bharland/pande/work/vac-opes-original/src/plots.py",
+		"/home/bharland/pande/work/vac-opes-original/src/vampnet.py",
+		"/home/bharland/pande/work/vac-opes-original/src/util.py",
+		"/etc/systemd/logind.conf",
+		"/home/bharland/pande/notes-summary/accounting/accounting.tex",
+		"/home/bharland/pande/tribello/notes/vac-opes/vac-opes.tex",
+		"/home/bharland/pande/tribello/notes/rwestimators.tex",
+		"/home/bharland/pande/bowman/notes/probability/probability.tex",
+		"/home/bharland/pande/ferguson/notes/reweight.tex",
+		"/home/bharland/pande/notes-summary/texnotes/texnotes.tex",
+		"/home/bharland/pande/ferguson/notes/bhheader.tex",
+		"/home/bharland/pande/ferguson/notes/subsec-boltzmann-time-iv.tex",
+		"/home/bharland/julia/exercism.jl",
+		"/home/bharland/pande/notes-summary/texnotes/sec-schutte.tex",
+		"/home/bharland/pande/notes-summary/texnotes/sec-tribello.tex",
+		"/home/bharland/Documents/running/coopers-test.txt",
+		"/home/bharland/pande/ferguson/notes/subsec-boltzmann-time-iiv.tex",
+		"/home/bharland/bin/templates/tex-files/template.tex",
+		"/home/bharland/pande/tribello/notes/vac-opes/sec-comp-sequence.tex",
+		"/home/bharland/pande/ferguson/notes/subsec-2017-parrinello.tex",
+		"/home/bharland/git/dotfiles/notes",
+		"/home/bharland/pande/work/vac-opes/src/data.py",
+		"/home/bharland/pande/work/vac-opes/src/dataset.py",
+		"/home/bharland/pande/work/vac-opes/src/vampnet.py",
+		"/home/bharland/pande/work/vac-opes/src/opes.py",
+		"/home/bharland/pande/work/vac-opes/src/calcs.py",
+		"/home/bharland/pande/work/vac-opes/src/plots.py",
+		"/home/bharland/pande/work/vac-opes/src/force.py",
+		"/home/bharland/pande/work/vac-opes/src/util.py",
+		"/home/bharland/pande/notes-summary/texnotes/sec-notes-summary.tex",
+		"/home/bharland/pande/notes-summary/texnotes/sec-ferguson.tex",
+		"/home/bharland/pande/notes-summary/texnotes/sec-bibl.tex",
+		"/home/bharland/pande/notes-summary/texnotes/texnotes.py",
+		"/home/bharland/pande/notes-summary/reweight/reweight.tex",
+		"/home/bharland/pande/ferguson/notes/sec-sept2023-p.tex",
+		"/home/bharland/pande/ferguson/notes/sec-sept2023-ptau.tex",
+		"/home/bharland/pande/ferguson/notes/sec-sept2023-papers.tex",
+		"/home/bharland/pande/ferguson/notes/subsec-boltzmann-time-iii.tex",
+		"/home/bharland/pande/ferguson/notes/subsec-boltzmann-time-i.tex",
+		"/home/bharland/fceux/fceux-2.6.6/README",
+		"/home/bharland/pande/tribello/notes/vac-opes/sec-algorithm.tex",
+		"/home/bharland/pande/tribello/notes/vac-opes/sec-boltzmann-time.tex",
+		"/home/bharland/pande/ferguson/notes/subsec-boltzmann-time-ii.tex",
+		"/home/bharland/pande/ferguson/notes/subsec-boltzmann-time.tex",
+		"/home/bharland/pande/ferguson/notes/subsec-reasoning-timescale.tex",
+		"/home/bharland/pande/tribello/notes/backup/opes-srv.tex",
+		"/home/bharland/pande/tribello/notes/vac-opes/subsec-old-weight-factors.tex",
+		"/home/bharland/pande/tribello/notes/vac-opes/sec-step-n.tex",
+		"/home/bharland/pande/tribello/notes/vac-opes/sec-weighted-vamp-loss.tex",
+		"/home/bharland/pande/tribello/notes/vac-opes/sec-weighted-vamp-loss.aux",
+		"/home/bharland/pande/work/vac-opes/src_unbiased/plots.py",
+		"/home/bharland/python/my-python.py",
+		"/home/bharland/anaconda3/envs/openmm-torch-env/lib/python3.9/site-packages/openmm/app/dcdfile.py",
+		"/home/bharland/pande/tribello/notes/vac-opes/bhheader.tex",
+		"/home/bharland/pande/tribello/notes/vac-opes/sec-offsets-full-data.tex",
+		"/home/bharland/bin/jupyterloc.py",
+		"/home/bharland/python/my-modules.py",
+		"/home/bharland/pande/work/vac-opes/README.txt",
+		"/home/bharland/pande/work/vac-opes/README.md",
+		"/home/bharland/courses/mit-18.06-linear-algebra/strang.tex",
+		"/home/bharland/courses/mit-18.06-linear-algebra/sec-lect11-13.tex",
+		"/home/bharland/pande/brunton/notes.tex",
+		"/home/bharland/python/my-numpy.py",
+		"/home/bharland/pande/work/vac-opes/notes/vac-opes.tex",
+		"/home/bharland/pande/work/vac-opes/notes/sec-step-n.tex",
+		"/home/bharland/pande/work/vac-opes/notes/sec-method.tex",
+		"/home/bharland/pande/work/vac-opes/src/metad.py",
+		"/home/bharland/pande/work/vac-opes/src/plots_metad.py",
+		"/home/bharland/pande/work/vac-opes/src/older_plots.py",
+		"/home/bharland/pande/work/vac-opes/src/plots-metad.py",
+		"/home/bharland/pande/work/vac-opes/src/util_metad.py",
+		"/home/bharland/.bashrc",
+		"/home/bharland/pande/work/vac-opes/src/fourwell.py",
+		"/home/bharland/pande/work/vac-opes/src/fourwell_old.py",
+		"/home/bharland/pande/work/vac-opes/src/fourwell_new.py",
+		"/home/bharland/pande/work/noe-model/src/fourwell.py",
+		"/home/bharland/pande/work/vac-opes/notes/sec-step-one.tex",
+		"/home/bharland/pande/work/vac-opes/notes/sec-offsets-full-data.tex",
+		"/home/bharland/pande/work/vac-opes/notes/sec-algorithm.tex",
+		"/home/bharland/pande/work/vac-opes/notes/sec-step-zero.tex",
+		"/home/bharland/pande/work/vac-opes/notes/sec-introduction.tex",
+		"/home/bharland/pande/work/vac-opes/src/opes_general.py",
+		"/home/bharland/pande/work/vac-opes/src_unbiased/vampnet.py",
+		"/home/bharland/pande/work/vac-opes/src/filenames.py",
+		"/home/bharland/bin/mp3-times.py",
+		"/home/bharland/python/sherry/iou.tex",
+		"/home/bharland/pande/work/vac-opes/src/srv_net.py",
+		"/home/bharland/pande/work/vac-opes/src/vampnet_srv.py",
+		"/home/bharland/pande/work/vac-opes/src/vampnet_original.py",
+		"/home/bharland/pande/work/vac-opes/src/tmp1.py",
+		"/home/bharland/pande/work/vac-opes/src/tmp2.py",
+		"/home/bharland/pande/work/vac-opes/openmm-torch-env.yml",
+		"/home/bharland/pande/parrinello/notes/opes.tex",
+		"/home/bharland/pande/tribello/notes/opes-srv.tex",
+		"/home/bharland/pande/tribello/notes/sec-algorithm.tex",
+		"/home/bharland/pande/work/vac-opes/test.vmd",
+		"/home/bharland/vmd-1.9.4a57/pbcbox.tcl",
+		"/home/bharland/vmd-1.9.4a57/highlight_bases.tcl",
+		"/home/bharland/vmd-1.9.4a57/write_frames.tcl",
+		"/home/bharland/vmd-1.9.4a57/configure",
+		"/home/bharland/vmd-1.9.3/README",
+		"/home/bharland/vmd-1.9.3/configure",
+		"/home/bharland/pande/tribello/notes/tribello.tex",
+		"/home/bharland/pande/parrinello/notes/parrinello.tex",
+		"/home/bharland/pande/tribello/notes/sec-mbar.tex",
+		"/home/bharland/git/dotfiles/setupnotes",
+		"/home/bharland/bin/backup.py",
+		"/home/bharland/pande/ferguson/notes/subsubsec-settanni.tex",
+		"/home/bharland/pande/ferguson/notes/subsec-reweight-estimators.tex",
+		"/home/bharland/pande/ferguson/notes/subsubsec-tiwary.tex",
+		"/home/bharland/pande/ferguson/notes/subsec-2015-tiwary.tex",
+		"/home/bharland/pande/ferguson/notes/reweight.",
+		"/home/bharland/pande/parrinello/notes/sec-2016-parrinello-review.tex",
+		"/home/bharland/pande/parrinello/notes/sec-enhanced-sampling-papers.tex",
+		"/home/bharland/pande/parrinello/notes/sec-2012-adaptive-guass.tex",
+		"/home/bharland/pande/tribello/notes/subsec-algorithm-old.tex",
+		"/home/bharland/pande/parrinello/notes/sec-2023-parrinello-memoir.tex",
+		"/home/bharland/pande/bibliography/bibl.bib",
+		"/home/bharland/pande/bibliography/bibl.tex",
+		"/home/bharland/pande/notes-summary/texnotes/sec-notes-ala.tex",
+		"/home/bharland/pande/notes-summary/texnotes/sec-notes-noe.tex",
+		"/home/bharland/pande/notes-summary/texnotes/sec-notes-msm.tex",
+		"/home/bharland/pande/notes-summary/texnotes/sec-parrinello.tex"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "calcs.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "data.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "dataset.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "force.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "opes.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "plots.py",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "util.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "vampnet.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.latextools":
+	{
+		"height": 234.0
+	},
+	"pinned_build_system": "",
+	"project": "vac-opes.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/git/dotfiles/notes.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
